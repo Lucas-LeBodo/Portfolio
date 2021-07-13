@@ -21,8 +21,8 @@ function AboutComponents() {
                     <h1>Lucas Le Bodo</h1>
                     <h2>Intégrateur/Développeur web Fullstack</h2>
                     <p>Je suis <span id={'color'}>Lucas Le Bodo</span> et j'ai 19ans.<br />
-                       Actuellement étudiant à la <a href="https://www.webacademie.org/">Web@cademie</a> de Nantes, je suis une formation sur 2ans pour devenir Intégrateur/Développeur web fullStack.<br /><br />
-                       Je recherche actuellement alternance à partir du 27 septembre 2021 au 18 novembre 2022.
+                       Actuellement étudiant à la <a href="https://www.webacademie.org/">Web@cademie</a> de Nantes, je suis une formation sur 2 ans pour devenir Intégrateur/Développeur web fullStack.<br /><br />
+                       Je recherche actuellement une alternance à partir du 27 septembre 2021 au 18 novembre 2022.
                     </p>
                 </div>
                 <div id={'about-button'}>
