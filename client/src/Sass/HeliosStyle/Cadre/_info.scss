@@ -1,0 +1,41 @@
+.cadre-info{
+
+    h3 {
+        color: white;
+        text-align: center;
+        font-size: 350%;
+        font-family: inherit;
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        padding-bottom: 1em;
+
+        .colored {
+            color: #F6AE99;
+        }
+    }
+
+    p {
+        color: white;
+        text-align: center;
+        font-size: 250%;
+        font-family: inherit;
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+    }
+}
+
+@media only screen and (min-width: 1px) and (max-width: 850px) {
+    .cadre-info{
+
+        h3 {
+            font-size: 170%;
+            font-weight: 500;
+        }
+    
+        p {
+            font-size: 130%;
+            font-weight: 300;
+        }
+    }
+
+}

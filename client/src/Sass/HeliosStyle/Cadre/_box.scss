@@ -1,0 +1,33 @@
+.box {
+    display: block;
+    position: absolute;
+    border: #F2E1C1 solid 5px;
+    margin: auto auto;
+    height: 60%;
+    width: 75%;
+    z-index: 1;
+
+    .content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+}
+
+@media only screen and (min-width: 1px) and (max-width: 850px) {
+
+    .box {
+        height: 50%;
+        width: 60%;
+    
+        .content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+        }
+    }
+}
