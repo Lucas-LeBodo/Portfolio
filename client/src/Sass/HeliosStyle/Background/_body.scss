@@ -1,0 +1,47 @@
+.bg-header{
+    display: block;
+    z-index: -10;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.623)), url('../../../Assets/Img/background1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+
+    .fondu {
+        display: block;
+        width: 100vw;
+        height: 100%;
+        background: #716F81;
+        z-index: -9;
+        opacity: 0.6;
+    }
+}
+
+.bg-profil {
+    display: block;
+    z-index: -10;
+    height: 110vh;
+    background: white;    
+}
+
+.bg-skill {
+    display: block;
+    z-index: -10;
+    height: 110vh;
+    background: #B97A95;
+}
+
+.bg-project {
+    display: block;
+    z-index: -10;
+    height: 110vh;
+    background: white;
+}
+
+.bg-contact {
+    display: block;
+    z-index: -10;
+    height: 110vh;
+    background: #F6AE99;
+}
+
