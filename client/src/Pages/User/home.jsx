@@ -2,7 +2,7 @@
 import React, { Fragment } from 'react'
 
 // Import Components
-// import AddButton from '../../Components/Elements/buttons/add';
+import Box from '../../Components/Elements/Cadre/box';
 
 
 
@@ -10,7 +10,7 @@ const Home = () => {
 
     return (
         <Fragment>
-
+            <Box />
         </Fragment>
     )
 }
