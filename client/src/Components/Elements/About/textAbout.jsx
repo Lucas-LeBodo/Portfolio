@@ -13,9 +13,9 @@ const TextAbout = ( ) => {
                 </div>
                 <div className="body-text">
                 <p>Je suis Lucas Le Bodo et j'ai 19ans.
-                Actuellement étudiant à la Web@cademie de Nantes, je suis une formation sur 2ans pour devenir Intégrateur/Développeur web fullStack.
-
-                Je recherche actuellement alternance à partir du 27 septembre 2021 au 18 novembre 2022</p>
+                    Je suis actuellement en train de suivre une formation sur 2ans nommé la Web@cadémie 
+                    pour devenir Intégrateur/Développeur web fullStack.<br />
+                    Je recherche actuellement alternance à partir du 27 septembre 2021 au 18 novembre 2022.</p>
                 </div>
             </div>
         </Fragment>
