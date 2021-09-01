@@ -6,7 +6,6 @@ const Info = ( ) => {
         <Fragment>
             <div className="cadre-info">
                 <h3>
-                    Je suis<br/>
                     <span className="colored">Lucas Le Bodo</span>
                 </h3>
                 <p>
